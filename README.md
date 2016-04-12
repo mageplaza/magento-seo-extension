@@ -43,7 +43,7 @@ SEO and Social Media are heavily intertwined, that's why this plugin also comes 
 - Page Analysis (Coming soon) 
 - Better 404 pages (Coming soon) 
 - SEO-friently URLs: Layered Navigation (Coming soon) 
-- 
+
 ## Help
 
 Documentations
